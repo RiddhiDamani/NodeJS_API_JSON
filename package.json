@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_api_json",
+  "version": "1.0.0",
+  "description": "Practice project of working with NodeJS API to fetch data using 5 ways:",
+  "main": "NodeRequestAxios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiddhiDamani/NodeJS_API_JSON.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiddhiDamani/NodeJS_API_JSON/issues"
+  },
+  "homepage": "https://github.com/RiddhiDamani/NodeJS_API_JSON#readme",
+  "dependencies": {
+    "got": "^7.1.0",
+    "node-fetch": "^3.1.0"
+  }
+}

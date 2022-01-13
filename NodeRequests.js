@@ -1,5 +1,6 @@
 // 5 ways to make HTTP requests in Node.js //
-
+// Method 1: Standard Node.js HTTP(S) module
+// As HTTPS is a standard Node.js module, there’s been no need for a package.json
 const https = require("https");
 
 https.get("https://jsonplaceholder.typicode.com/users", (res) => {
